@@ -4,7 +4,7 @@ This was a small student project created by Amar Zlojic, Arman Ossi Loko and Sal
 
 ## Database relationships
 
-![](URL "Relationships")
+![](https://raw.githubusercontent.com/TheDoomKing/Aeon-Hosting/master/Hosting%20-%20Relationships.png "Relationships")
 
 ## How to use
 
