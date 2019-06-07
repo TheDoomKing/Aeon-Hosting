@@ -34,7 +34,7 @@ Few of the main forms include a section to add and modify games (their info and 
 
 ## Author(s)
 
--	[Amar Zlojic](https://www.omdbapi.com/)
+-	[Amar Zlojic](https://github.com/amar771)
 -	[Arman Ossi Loko](https://github.com/TheDoomKing)
 -	[Salih Agic](https://github.com/Agic98)
 
